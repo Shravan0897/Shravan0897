@@ -1,6 +1,6 @@
 ### Hi there, I am Shravan Tomar👋
 
-- 🔭 I’m currently working on Automation Testing using Cypress on Gamezop.
+- 🔭 I’m currently working on Automation Testing using Cypress at Gamezop.
 - 🌱 I’m currently learning Selenium Webdriver with Java
 - 🤔 I’m looking for help with Java Coding.
 - 💬 Ask me about Life.
