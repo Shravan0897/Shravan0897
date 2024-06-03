@@ -1,8 +1,8 @@
 ### Hi there, I am Shravan Tomar👋
 
 - 🔭 I’m currently working on Automation Testing using Cypress at Gamezop.
-- 🌱 I’m currently learning Selenium Webdriver with Java
-- 🤔 I’m looking for help with Java Coding.
+- 🌱 I’m currently learning Selenium Webdriver with Python
+- 🤔 I’m looking for help with Python Coding.
 - 💬 Ask me about Life.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shravan-tomar-qa/)
 - 😄 Pronouns: He/Him
